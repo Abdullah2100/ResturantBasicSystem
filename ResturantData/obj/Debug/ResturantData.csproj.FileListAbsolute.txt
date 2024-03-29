@@ -1,0 +1,6 @@
+C:\Users\ali77\source\repos\restorantSystem\ResturantData\bin\Debug\ResturantData.dll
+C:\Users\ali77\source\repos\restorantSystem\ResturantData\bin\Debug\ResturantData.pdb
+C:\Users\ali77\source\repos\restorantSystem\ResturantData\obj\Debug\ResturantData.csproj.AssemblyReference.cache
+C:\Users\ali77\source\repos\restorantSystem\ResturantData\obj\Debug\ResturantData.csproj.CoreCompileInputs.cache
+C:\Users\ali77\source\repos\restorantSystem\ResturantData\obj\Debug\ResturantData.dll
+C:\Users\ali77\source\repos\restorantSystem\ResturantData\obj\Debug\ResturantData.pdb
