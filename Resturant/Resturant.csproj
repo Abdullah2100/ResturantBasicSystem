@@ -261,5 +261,8 @@
   <ItemGroup>
     <None Include="Resources\menu-holder_image.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resturant.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
